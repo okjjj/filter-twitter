@@ -1,0 +1,32 @@
+# removes "who to follow"
+twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > .flex-module:nth-of-type(1)
+
+# removes invite from email
+twitter.com##.import-prompt.flex-module
+
+# removes footer with all the links
+twitter.com##.js-items-container.flex-module-inner > .u-cf
+
+# removes "advertise with twitter" box
+twitter.com##.Footer-adsModule.flex-module
+
+# removes bird logo
+twitter.com##.bird-topbar-etched.Icon--bird.Icon
+
+# block trends box
+twitter.com##.trends.Trends.module
+
+# removes "Messages" text
+twitter.com##.global-dm-nav.js-dynamic-tooltip.js-tooltip > .text
+
+# removes "Home" text
+twitter.com###global-nav-home > .js-dynamic-tooltip.js-tooltip.js-nav > .text
+
+# removes "Moments" button and text
+twitter.com##.js-moments-tab.moments > .js-dynamic-tooltip.js-tooltip.js-nav
+
+twitter.com##.roaming-module.module.Footer > .flex-module:nth-of-type(1)
+
+twitter.com##.notifications.people > .js-dynamic-tooltip.js-tooltip.js-nav > .text
+
+twitter.com##.dashboard-left.dashboard
